@@ -1,0 +1,12 @@
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libdefmt_rtt-b6962a2f14a84d4d.rmeta: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\channel.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\consts.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\build\defmt-rtt-b8ebfd15ece5e759\out/consts.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libdefmt_rtt-b6962a2f14a84d4d.rlib: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\channel.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\consts.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\build\defmt-rtt-b8ebfd15ece5e759\out/consts.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\defmt_rtt-b6962a2f14a84d4d.d: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\channel.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\consts.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\build\defmt-rtt-b8ebfd15ece5e759\out/consts.rs
+
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\lib.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\channel.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-0.4.2\src\consts.rs:
+C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\build\defmt-rtt-b8ebfd15ece5e759\out/consts.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\matei\\OneDrive\\Documente\\Git Repos\\TruffleSQL\\RO10-Strigoi\\Software\\stm32f7\\target\\thumbv7em-none-eabihf\\debug\\build\\defmt-rtt-b8ebfd15ece5e759\\out

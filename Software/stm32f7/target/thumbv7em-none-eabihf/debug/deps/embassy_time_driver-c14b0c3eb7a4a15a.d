@@ -1,0 +1,9 @@
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libembassy_time_driver-c14b0c3eb7a4a15a.rmeta: C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\lib.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\tick.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\../README.md
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libembassy_time_driver-c14b0c3eb7a4a15a.rlib: C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\lib.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\tick.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\../README.md
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\embassy_time_driver-c14b0c3eb7a4a15a.d: C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\lib.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\tick.rs C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\../README.md
+
+C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\lib.rs:
+C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\tick.rs:
+C:\Users\matei\OneDrive\Documente\Git\ Repos\TruffleSQL\RO10-Strigoi\Software\crates\embassy-time-driver\src\../README.md:

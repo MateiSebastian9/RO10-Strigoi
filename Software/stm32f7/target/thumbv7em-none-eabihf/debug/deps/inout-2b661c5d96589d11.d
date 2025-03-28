@@ -1,0 +1,11 @@
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libinout-2b661c5d96589d11.rmeta: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\errors.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout_buf.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\reserved.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libinout-2b661c5d96589d11.rlib: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\errors.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout_buf.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\reserved.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\inout-2b661c5d96589d11.d: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\errors.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout_buf.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\reserved.rs
+
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\lib.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\errors.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\inout_buf.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\inout-0.1.4\src\reserved.rs:

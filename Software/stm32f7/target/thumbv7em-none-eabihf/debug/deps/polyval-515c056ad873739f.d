@@ -1,0 +1,10 @@
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libpolyval-515c056ad873739f.rmeta: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend\soft32.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\mulx.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\libpolyval-515c056ad873739f.rlib: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend\soft32.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\mulx.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\thumbv7em-none-eabihf\debug\deps\polyval-515c056ad873739f.d: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\lib.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend\soft32.rs C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\mulx.rs
+
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\lib.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\backend\soft32.rs:
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polyval-0.6.2\src\mulx.rs:

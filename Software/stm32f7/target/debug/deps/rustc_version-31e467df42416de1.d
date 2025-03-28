@@ -1,0 +1,7 @@
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\debug\deps\librustc_version-31e467df42416de1.rmeta: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc_version-0.4.1\src\lib.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\debug\deps\librustc_version-31e467df42416de1.rlib: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc_version-0.4.1\src\lib.rs
+
+C:\Users\matei\OneDrive\Documente\Git Repos\TruffleSQL\RO10-Strigoi\Software\stm32f7\target\debug\deps\rustc_version-31e467df42416de1.d: C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc_version-0.4.1\src\lib.rs
+
+C:\Users\matei\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc_version-0.4.1\src\lib.rs:
